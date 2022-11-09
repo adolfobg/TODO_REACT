@@ -10,3 +10,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.input_value {
+    padding: 1rem;
+    display: block;
+    border: 5px;
+    border-width: 5px;
+}
