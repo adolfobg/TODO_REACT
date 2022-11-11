@@ -11,8 +11,9 @@
 
 */
 .input_value {
-    padding: 1rem;
-    display: block;
+    padding: 0.5rem;
+    border-color: grey;
     border: 5px;
     border-width: 5px;
+    background-color: blue;
 }
